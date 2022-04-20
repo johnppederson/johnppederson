@@ -1,5 +1,4 @@
 # Welcome to my Github Profile
-### Please leave your shoes at the door!
 
 <div align="center"> 
   <p>
